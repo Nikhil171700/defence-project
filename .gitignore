@@ -1,0 +1,20 @@
+# Dataset images
+bird/
+drone/
+train/
+test/
+*.jpg
+*.jpeg
+*.webp
+*.png
+
+# Trained models
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
